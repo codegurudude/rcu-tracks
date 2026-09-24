@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-09-24T17:30:41Z",
+ "generated": "2026-09-24T17:38:23Z",
  "tracks": [
   {
    "file": "RCU-Bike-DonningtonPark.route.json",
@@ -11,6 +11,24 @@
    "planet": "earth",
    "kind": "route",
    "lengthM": 2260,
+   "sim": true,
+   "roadKind": "bike",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "RCU-Bike-IsleofManTT-original.route.json",
+   "bytes": 95525,
+   "sha256": "7c8a17d1e822a240cde3e7bde69f57cce75dfac2900e6b083a63b1c9244dc798",
+   "name": "RCU-Bike-IsleofManTT-Original",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 6532,
    "sim": true,
    "roadKind": "bike",
    "surfaceShares": [
@@ -491,6 +509,204 @@
    "planet": "earth",
    "kind": "route",
    "lengthM": 1835,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-indy-longbeach.route.json",
+   "bytes": 16925,
+   "sha256": "41bf9d3a45e9eae3d0db258517f60d75bad6196a36d0e784e18c53b0f72412c4",
+   "name": "RCU-Indy-Longbeach",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 3164,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-1.route.json",
+   "bytes": 19669,
+   "sha256": "675905e5792a45d4bcd9bcc33874362469d350f181d3aede025250f32f41b33b",
+   "name": "RCU-RacenRoll-1",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 1428,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-10.route.json",
+   "bytes": 15863,
+   "sha256": "0171bb09c633639d78c18e336e58ddc5a0e86acdc864f739aea9df2853e0e729",
+   "name": "RCU-RacenRoll-10",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 2147,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-2.route.json",
+   "bytes": 16216,
+   "sha256": "53c45273964209e8142c0dfe9425dea24c073e8b2c5b953cb9f6bfd35348aa3f",
+   "name": "RCU-RacenRoll-2",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 1664,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-3.route.json",
+   "bytes": 21128,
+   "sha256": "2505ace81fef29f435c37916ce4b22754c29634e83a311ce6a20c8c09fd8620d",
+   "name": "RCU-RacenRoll-3",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 2846,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-4.route.json",
+   "bytes": 16198,
+   "sha256": "61279c02ad8afc3aafad7ece7831dd902e8c24421bc283c3a0a1d0d09f689c33",
+   "name": "RCU-RacenRoll-4",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 2183,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-5.route.json",
+   "bytes": 20867,
+   "sha256": "b7e4678a2c1884007e104ef09e9f4bc72d8488a7a2c81d83e1eb581c81511016",
+   "name": "RCU-RacenRoll-5",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 2425,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-6.route.json",
+   "bytes": 15516,
+   "sha256": "7e73f037f383b3096bf4f93dd71f74dd10c5b4b9b45e6653e9d3226ea3b5e5d6",
+   "name": "RCU-RacenRoll-6",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 1938,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-7.route.json",
+   "bytes": 17691,
+   "sha256": "320cd9b854cd5f405572e38f358eb487a67209b458365e5df8990d5fb65dc5fd",
+   "name": "RCU-RacenRoll-7",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 2938,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-8.route.json",
+   "bytes": 18165,
+   "sha256": "b8e21bd25b3f9f208343f40c297f0ff71ff03c31649dd4caf3ab811b276f98d4",
+   "name": "RCU-RacenRoll-8",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 1461,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-racenroll-9.route.json",
+   "bytes": 18925,
+   "sha256": "89d63357b44fa94795efa0753bd814a719fe1e06265f544114e106f59e45b3e6",
+   "name": "RCU-RacenRoll-9",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 2203,
    "sim": true,
    "roadKind": "car",
    "surfaceShares": [
