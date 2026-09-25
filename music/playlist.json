@@ -1,0 +1,8 @@
+{
+  "shuffle": true,
+  "tracks": [
+    { "file": "devmo-long-ride.mp3", "title": "Long Ride", "artist": "DEVMO" },
+    { "file": "danny-shields-funky-fortune.mp3", "title": "Funky Fortune", "artist": "Danny Shields" },
+    { "file": "ariel-shalom-aurax93.mp3", "title": "AURAX93", "artist": "Ariel Shalom" }
+  ]
+}
