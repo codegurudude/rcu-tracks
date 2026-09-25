@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-09-24T17:38:23Z",
+ "generated": "2026-09-25T06:53:06Z",
  "tracks": [
   {
    "file": "RCU-Bike-DonningtonPark.route.json",
@@ -519,6 +519,42 @@
    ]
   },
   {
+   "file": "rcu-bendit.route.json",
+   "bytes": 19754,
+   "sha256": "b6814a4f9cbe9fca547483015fd55c45beb78c328327df5c91ead1fa970b4a3b",
+   "name": "RCU-BendIt",
+   "author": "",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 3798,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-goldenlake.route.json",
+   "bytes": 28510,
+   "sha256": "d82d8dbfb772c08c58b3899a72c10606b91d27e51624d5c7b54078f298718858",
+   "name": "RCU-GoldenLake",
+   "author": "",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 3595,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
    "file": "rcu-indy-longbeach.route.json",
    "bytes": 16925,
    "sha256": "41bf9d3a45e9eae3d0db258517f60d75bad6196a36d0e784e18c53b0f72412c4",
@@ -529,6 +565,24 @@
    "lengthM": 3164,
    "sim": true,
    "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-kart-babuza.route.json",
+   "bytes": 26521,
+   "sha256": "23261145dd51d7237235fa407a7cdf35fd683b5d64d58c902a4dddfa7fd7cf80",
+   "name": "RCU-Kart-Babuza",
+   "author": "",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 1843,
+   "sim": true,
+   "roadKind": "bike",
    "surfaceShares": [
     {
      "key": "tarmac",
@@ -715,6 +769,29 @@
      "pct": 100
     }
    ]
+  }
+ ],
+ "music": [
+  {
+   "file": "ariel-shalom-aurax93.mp3",
+   "bytes": 3968984,
+   "sha256": "a954ca87eed63341816f5c5baf470d6ad12058cdc8c8f412afbe30932dd3e59f",
+   "title": "AURAX93",
+   "artist": "Ariel Shalom"
+  },
+  {
+   "file": "danny-shields-funky-fortune.mp3",
+   "bytes": 5308557,
+   "sha256": "a4e43823e420ac237f20e308eb598b305a913e387c83e8dc8adc8e0be5b13b70",
+   "title": "Funky Fortune",
+   "artist": "Danny Shields"
+  },
+  {
+   "file": "devmo-long-ride.mp3",
+   "bytes": 3260928,
+   "sha256": "f1c3fc826ed61a7f689be9219da0f5caa0c73054d3102810f3ad1396f06f066e",
+   "title": "Long Ride",
+   "artist": "DEVMO"
   }
  ]
 }
