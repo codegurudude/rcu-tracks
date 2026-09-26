@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-09-25T06:53:06Z",
+ "generated": "2026-09-26T15:05:52Z",
  "tracks": [
   {
    "file": "RCU-Bike-DonningtonPark.route.json",
@@ -583,6 +583,42 @@
    "lengthM": 1843,
    "sim": true,
    "roadKind": "bike",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-lemans-nochicane.route.json",
+   "bytes": 105212,
+   "sha256": "1767caf5d4d6fcbaa4279856456ef42e2991a91a07040e6df814cb9f42be1693",
+   "name": "RCU-LeMans-NoChicane",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 10266,
+   "sim": true,
+   "roadKind": "car",
+   "surfaceShares": [
+    {
+     "key": "tarmac",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "file": "rcu-lemans.route.json",
+   "bytes": 34574,
+   "sha256": "bbb56bf5b5559720174584dda59490f2eaf99258edb6a279f29626ce58f1154f",
+   "name": "RCU-LeMans",
+   "author": "Jonny",
+   "planet": "earth",
+   "kind": "route",
+   "lengthM": 8501,
+   "sim": true,
+   "roadKind": "car",
    "surfaceShares": [
     {
      "key": "tarmac",
