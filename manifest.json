@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-09-27T14:22:04Z",
+ "generated": "2026-10-14T07:20:14Z",
  "tracks": [
   {
    "file": "RCU-Bike-DonningtonPark.route.json",
@@ -58,8 +58,8 @@
   },
   {
    "file": "RCU-F1-AbuDhabi.route.json",
-   "bytes": 57014,
-   "sha256": "37e4063c5fd45dfc0c8799694b598fb64653a9b6ad5f3ed223688f84e9b66afe",
+   "bytes": 56642,
+   "sha256": "b13d9021cbbb308845442fbf335d8a6b93df08823fcf4ad9a5561117fd73ed9f",
    "name": "RCU-F1-AbuDhabi",
    "author": "",
    "planet": "earth",
@@ -69,15 +69,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Americas.route.json",
-   "bytes": 50459,
-   "sha256": "12e19fad619f4f4d3abe10134dc6c34418adf8a2bfdebd43517146065e9a0a6e",
+   "bytes": 50135,
+   "sha256": "5a7a9b968d0acd4d38ac0f835ae6564ce35545adb71584d03f31362475499738",
    "name": "RCU-F1-Americas",
    "author": "",
    "planet": "earth",
@@ -87,15 +87,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Brandshatch.route.json",
-   "bytes": 39978,
-   "sha256": "60c859d6e8761ee54c7f934bfcd9565a9227ce5bf7c0ea08ec134c5d5cb44ae4",
+   "bytes": 39718,
+   "sha256": "044c64b81934e93534a16c74babba17874fb7cd1c685b83149305091e817fe40",
    "name": "RCU-F1-Brandshatch",
    "author": "",
    "planet": "earth",
@@ -105,15 +105,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Fuji.route.json",
-   "bytes": 34602,
-   "sha256": "10b8e3478720492f639f9c309428317d7b551885b487233dfcb1df2c2d17b3db",
+   "bytes": 34356,
+   "sha256": "6fe023a9ef422a3617932116e9c13816f04f81fce3709a53135b4a3232f98897",
    "name": "RCU-F1-Fuji",
    "author": "",
    "planet": "earth",
@@ -123,15 +123,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Interlagos.route.json",
-   "bytes": 59631,
-   "sha256": "0688385993b7c365903d72f1a93d96e37b809fcb850b6db9d5e7e622a5425c03",
+   "bytes": 59233,
+   "sha256": "824aa0b66dfeda9499726492eb454bb4443c9e67d9b180f1d6bc090842432395",
    "name": "RCU-F1-Interlagos",
    "author": "",
    "planet": "earth",
@@ -141,15 +141,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Laguna.route.json",
-   "bytes": 40090,
-   "sha256": "0cb696b391efcd7e7c2c9cca0e12c2463186c30193191d4493faa7df657850f2",
+   "bytes": 39824,
+   "sha256": "ccacdd9372d6a08f1ab607c76a41e50e4a1c070d4ddd9b23db204b19870ba265",
    "name": "RCU-F1-Laguna",
    "author": "",
    "planet": "earth",
@@ -159,15 +159,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Monaco.route.json",
-   "bytes": 26157,
-   "sha256": "0b803034ce8b6a8ae3f45266aba55d3c6426047e3e0c5a68943fa28ed3968a05",
+   "bytes": 25995,
+   "sha256": "776416080a44d9d623694bb2b424f7013f0755e6263fd61a80df32eeed7a411d",
    "name": "RCU-F1-Monaco",
    "author": "",
    "planet": "earth",
@@ -177,15 +177,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Monza.route.json",
-   "bytes": 31560,
-   "sha256": "ac19d59f40149343e847ab9995f9f0f055fa3f13f3092974201f189ed4d7eb50",
+   "bytes": 31356,
+   "sha256": "22e622aabbf7d9590797180d9d78398dbc5037d24fca950531cef63e35f77675",
    "name": "RCU-F1-Monza",
    "author": "",
    "planet": "earth",
@@ -195,15 +195,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Silverstone.route.json",
-   "bytes": 40682,
-   "sha256": "804dd59870339ee5a7b6cbbee3c3c0d615773b8806a4c0ad6da00763e168e62d",
+   "bytes": 40424,
+   "sha256": "5909414cd06698fa97b9a38ba5e773c240df6944a198f13d47fd1c40a458ad3c",
    "name": "RCU-F1-Silverstone",
    "author": "",
    "planet": "earth",
@@ -213,15 +213,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Spa.route.json",
-   "bytes": 25140,
-   "sha256": "5c79b573fef5ac59480c2fff4d3352a6430de7b39b8c5a755cf084a827cc2c76",
+   "bytes": 24976,
+   "sha256": "d00e9efcd6f5ff6fee0117a709a63de4e5bf043b6b8f18c419f04fbda7739f03",
    "name": "RCU-F1-Spa",
    "author": "",
    "planet": "earth",
@@ -231,15 +231,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-F1-Suzuka.route.json",
-   "bytes": 43503,
-   "sha256": "82ba063ef1bfdeb7eb6f2d2918042deabaa2f46683948547ddcfce13eece5d67",
+   "bytes": 43207,
+   "sha256": "67eeea36aa8e766dd6289261f6bcbf19bf81719ef410540f7884d0775c5bd1b9",
    "name": "RCU-F1-Suzuka",
    "author": "Jonny",
    "planet": "earth",
@@ -249,15 +249,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-Indy-BarberMotorsportPark.route.json",
-   "bytes": 27317,
-   "sha256": "820dae9dc545eae91f83f9c1af101bdd81148126caf28295e47d6f8841810f1b",
+   "bytes": 27145,
+   "sha256": "ae9fe19cc52632cbcb44cd5f5bc52d15b5488c56b10a21dc60d926071af18b28",
    "name": "RCU-Indy-BarberMotorsportPark",
    "author": "Jonny",
    "planet": "earth",
@@ -267,15 +267,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-Indy-Nashville.route.json",
-   "bytes": 24206,
-   "sha256": "9929dec3c424e0ad2525b5c668406c9bfe9f96e48b19c08f02cdfefc81408dce",
+   "bytes": 24046,
+   "sha256": "066995dce58facee98f8f919b694f7a688bb67a0bd507281a0f3bb0e20ae98fd",
    "name": "RCU-Indy-Nashville",
    "author": "Jonny",
    "planet": "earth",
@@ -285,15 +285,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-Indy-PhoenixRaceway.route.json",
-   "bytes": 8674,
-   "sha256": "6e6c38cf9e7ff3e2fc8528b9bd1b9a22dcaf5bb1f10bcdfdc079f926db05ba46",
+   "bytes": 8616,
+   "sha256": "82be0be2943b7906623300a27f472168561daabfe54ae55b4844e35cd0d459d9",
    "name": "RCU-Indy-PhoenixRaceway",
    "author": "Jonny",
    "planet": "earth",
@@ -303,15 +303,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-Indy-StPetersburgh.route.json",
-   "bytes": 14945,
-   "sha256": "7645962c168267f4773541d140267058398f95af5c0a0636dd9bba5e3ac565c4",
+   "bytes": 14847,
+   "sha256": "4a8e916b029021cb4fb9b9299af97b54a10ff2f6a0a017a1a05a614534933b9f",
    "name": "RCU-Indy-StPetersburgh",
    "author": "Jonny",
    "planet": "earth",
@@ -321,15 +321,15 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
   },
   {
    "file": "RCU-Indy-ThermalFull.route.json",
-   "bytes": 76217,
-   "sha256": "909f5570506525085d6ee434b9d2486ef39ce5c376d96cd7f769609046295650",
+   "bytes": 75733,
+   "sha256": "1f3e56dd80a83f376a201574371591c0aee0d4416d8cebf0b43d4cc2abedd542",
    "name": "RCU-Indy-ThermalFull",
    "author": "",
    "planet": "earth",
@@ -339,7 +339,7 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
@@ -556,8 +556,8 @@
   },
   {
    "file": "rcu-indy-longbeach.route.json",
-   "bytes": 16925,
-   "sha256": "41bf9d3a45e9eae3d0db258517f60d75bad6196a36d0e784e18c53b0f72412c4",
+   "bytes": 16819,
+   "sha256": "dad5a71091bee73f131ac2901aba6ab0227faae4b07f9529a729fdcc1455d66c",
    "name": "RCU-Indy-Longbeach",
    "author": "Jonny",
    "planet": "earth",
@@ -567,7 +567,7 @@
    "roadKind": "car",
    "surfaceShares": [
     {
-     "key": "tarmac",
+     "key": "race",
      "pct": 100
     }
    ]
